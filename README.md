@@ -16,7 +16,8 @@ This analysis addresses the company's core operational challenges by examining h
 - Channel performance optimization
 - Demand forecasting for operational efficiency
 
-📊 View Technical Implementation | 📈 Power BI Dashboard Files
+View Technical Implementation here (Haven_Home_Predictive_Analysis/Haven_Home_Predictive_Analysis.pbix)
+
 
 ### Data Structure Overview
 The analysis utilizes a comprehensive hospitality dataset that was transformed during the ETL process from a single denormalized dataset into four normalized tables to reduce redundancy and improve data integrity:
