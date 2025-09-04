@@ -2,6 +2,19 @@
 
 ## Leveraging Customer Behavior Data to Optimize Revenue and Occupancy
 
+## Table of Contents
+- [Background and Overview](#background-and-overview)
+    - [Key Analysis Areas](#key-analysis-areas)
+- [Data Structure Overview](#data-structure-overview)
+   - [Data Architecture](#data-architecture)
+   - [Key Metrics Calculated](#key-metrics-calculated)
+- [Executive Summary](#executive-summary)
+    - [Key Findings](#key-findings)
+    - [Insights Deep Dive](#insights-deep-dive)
+- [Recommendations](#recommendations)
+- [Caveats and Assumptions](#caveats-and-assumptions)
+
+
 ## Background and Overview
 
 Hospitality Haven is a global hotel chain established in 2012, operating luxury hotels, boutique properties, resorts, and business hotels across key tourist destinations. The company faces critical challenges in the highly competitive hospitality industry, including unpredictable seasonal booking patterns, complex pricing optimization, and the need to better understand evolving customer behavior.
