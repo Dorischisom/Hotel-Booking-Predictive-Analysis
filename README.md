@@ -2,18 +2,6 @@
 
 ## Leveraging Customer Behavior Data to Optimize Revenue and Occupancy
 
-## Table of Contents
-- [Background and Overview](#background-and-overview)
-    - [Key Analysis Areas](#key-analysis-areas)
-- [Data Structure Overview](#data-structure-overview)
-   - [Data Architecture](#data-architecture)
-   - [Key Metrics Calculated](#key-metrics-calculated)
-- [Executive Summary](#executive-summary)
-    - [Key Findings](#key-findings)
-    - [Insights Deep Dive](#insights-deep-dive)
-- [Recommendations](#recommendations)
-- [Caveats and Assumptions](#caveats-and-assumptions)
-
 
 ## Background and Overview
 
@@ -29,7 +17,11 @@ This analysis addresses the company's core operational challenges by examining h
 - Channel performance optimization
 - Demand forecasting for operational efficiency
 
-[View The interactive dashboard here](Haven_Home_Predictive_Analysis/Haven_Home_Predictive_Analysis.pbix)
+[View The interactive PowerBi dashboard here](Haven_Home_Predictive_Analysis/Haven_Home_Predictive_Analysis.pbix)
+
+
+## Tool Used
+- PowerBi
 
 
 ### Data Structure Overview
